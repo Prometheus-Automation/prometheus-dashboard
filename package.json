@@ -1,0 +1,8 @@
+{
+  "name": "prometheus-dashboard",
+  "version": "1.0.0",
+  "description": "Prometheus AI Dashboard",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
